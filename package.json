@@ -14,7 +14,7 @@
   "devDependencies": {
     "coffeelint": "^1.9.7",
     "fs-plus": "3.x",
-    "standard": "^8.4.0",
+    "standard": "^17.1.2",
     "temp": "~0.8.1"
   },
   "standard": {
