@@ -12,7 +12,7 @@
     "lint": "standard"
   },
   "devDependencies": {
-    "coffeelint": "^1.9.7",
+    "coffeelint": "^2.1.0",
     "fs-plus": "3.x",
     "standard": "^8.4.0",
     "temp": "~0.8.1"
