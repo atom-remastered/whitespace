@@ -3,7 +3,7 @@
   "version": "0.37.8",
   "main": "./lib/main",
   "description": "Strips trailing whitespace and adds a trailing newline when an editor is saved.",
-  "repository": "https://github.com/coltonsr77/whitespace",
+  "repository": "https://github.com/atom-remastered/whitespace",
   "license": "MIT",
   "engines": {
     "atom": "*"
